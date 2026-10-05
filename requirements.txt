@@ -1,0 +1,2 @@
+scapy>=2.5  # pcap_summary.py
+pytest>=7.4
